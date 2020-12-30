@@ -20,5 +20,7 @@ The path length is
  ```
  
  There is a function names "graph" which can draw the graph of the cities. (nodes are the numbers of the cities. The first city's node color is green.) For example:
+ 
+ ![Graph](https://github.com/Pariasrz/TSP-with-HillClimbing/blob/main/Figure.png)
 
                        
